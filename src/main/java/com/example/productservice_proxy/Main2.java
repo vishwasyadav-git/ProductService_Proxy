@@ -11,7 +11,7 @@ public class Main2 {
         List<Integer> l1 = List.of(1, 2, 3, 4);
         List<String> l2 = List.of(
                 "Hello",
-                "Hi",
+                "Hi Everyone",
                 "Hey"
         );
 
